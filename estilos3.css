@@ -1,0 +1,193 @@
+.resolucion{
+    width: 99%;
+    text-align: center;
+}
+
+@media (max-width: 767px){
+    .dekstop{
+        display: none;
+    }
+    .tablet{
+        display: none;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 990px){
+    .dekstop{
+        display: none;
+    }
+    .telefono{
+        display: none;
+    }
+}
+
+@media (min-width: 991px){
+    .tablet{
+        display: none;
+    }
+    .telefono{
+        display: none;
+    }
+}
+
+.formato-1{
+    display:flex;
+    justify-content: space-between;
+}
+
+.imagen-3{
+    width: 150px;
+    height: 100px;
+}
+
+.imagen-4{
+    width: 150px;
+    height: 100px;
+}
+
+.imagen-5{
+    width: 150px;
+    height: 100px;
+}
+
+
+.formato-2{
+    display:flex;
+    justify-content: space-between;
+}
+
+
+
+.imagen-3{
+    width: 150px;
+    height: 100px;
+}
+
+.imagen-4{
+    width: 150px;
+    height: 100px;
+}
+
+.imagen-5{
+    width: 150px;
+    height: 100px;
+}
+
+.imagen-6{
+    width: 200px;
+    height: 150px;
+}
+
+.imagen-7{
+    width: 450px ;
+    height: 250px;
+}
+
+.imagen-8{
+    width: 450PX;
+    height: 250PX;
+}
+
+.imagen-9{
+    width: 450px;
+    height: 250px;
+}
+
+
+
+.texto{
+    text-align: justify;
+}
+
+.texto-1{
+    text-align: justify;
+}
+
+.texto-2{
+    text-align: justify;
+}
+
+.texto-3{
+    text-align: justify;
+}
+
+.texto-4{
+    text-align: justify;
+}
+
+.texto-5{
+    text-align: justify;
+}
+
+.texto-6{
+    text-align: justify;
+}
+
+.texto-7{
+    text-align: justify;
+}
+
+.texto-8{
+    text-align: justify;
+}
+
+.texto-9{
+    text-align: justify;
+}
+
+.texto-10{
+    text-align: justify;
+}
+
+.texto-11{
+    text-align: justify;
+}
+
+.texto-12{
+    text-align: justify;
+}
+
+.texto-13{
+    text-align: justify;
+}
+
+.texto-14{
+    text-align: justify;
+}
+
+.texto-15{
+    text-align: justify;
+}
+
+.texto-16{
+    text-align: justify;
+}
+
+.texto-17{
+    text-align: justify;
+}
+
+.texto-18{
+    text-align: justify;
+}
+
+.texto-19{
+    text-align: justify;
+}
+
+.texto-20{
+    text-align: justify;
+}
+
+.texto-21{
+    text-align: justify;
+}
+
+
+
+body{
+    background-image: linear-gradient(to top right, rgb(235, 235, 235), rgb(202, 16, 47) 50%, rgb(14, 3, 3));
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}

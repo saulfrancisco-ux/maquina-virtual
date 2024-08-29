@@ -1,0 +1,57 @@
+@media (max-width: 767px){
+    .dekstop{
+        display: none;
+    }
+    .tablet{
+        display: none;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 990px){
+    .dekstop{
+        display: none;
+    }
+    .telefono{
+        display: none;
+    }
+}
+
+@media (min-width: 991px){
+    .tablet{
+        display: none;
+    }
+    .telefono{
+        display: none;
+    }
+}
+
+.formato-1{
+    display:flex;
+    justify-content: space-between;
+}
+
+.imagen-3{
+    width: 180px;
+    height: 100px;
+}
+
+.imagen-4{
+    width: 180px;
+    height: 100px;
+}
+
+.imagen-5{
+    width: 180px;
+    height: 100px;
+}
+
+.imagen-6{
+    width: 180px;
+    height: 100px;
+}
+body{
+    background-image: linear-gradient(to top right, rgb(235, 235, 235), rgb(202, 16, 47) 50%, rgb(14, 3, 3));
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}

@@ -1,0 +1,132 @@
+.resolucion{
+    width: 99%;
+    text-align: center;
+}
+
+@media (max-width: 767px){
+    .dekstop{
+        display: none;
+    }
+    .tablet{
+        display: none;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 990px){
+    .dekstop{
+        display: none;
+    }
+    .telefono{
+        display: none;
+    }
+}
+
+@media (min-width: 991px){
+    .tablet{
+        display: none;
+    }
+    .telefono{
+        display: none;
+    }
+}
+
+.formato-1{
+    display:flex;
+    justify-content: space-between;
+}
+
+.imagen-1{
+    width: 150px;
+    height: 100px;
+    
+}
+
+.imagen-2{
+    width: 150px;
+    height: 100px;
+}
+
+.imagen-15{
+    width: 600px;
+    height: 400px;
+}
+
+.imagen-16{
+    width: 600px;
+    height: 400px;
+}
+
+.imagen-17{
+    width: 600px;
+    height: 400px;
+}
+
+.imagen-18{
+    width: 600px;
+    height: 400px;
+}
+
+.imagen-19{
+    width: 600px;
+    height: 400px;
+}
+
+.imagen-20{
+    width: 600px;
+    height: 400px;
+}
+
+.imagen-21{
+    width: 600px;
+    height: 400px;
+}
+
+.imagen-22{
+    width: 600px;
+    height: 400px;
+}
+
+.imagen-23{
+    width: 600px;
+    height: 400px;
+}
+
+.imagen-24{
+    width: 600px;
+    height: 400px;
+}
+
+.imagen-25{
+    width: 600px;
+    height: 400px;
+}
+
+.imagen-26{
+    width: 600px;
+    height: 400px;
+}
+
+.imagen-27{
+    width: 600px;
+    height: 400px;
+}
+
+.imagen-28{
+    width: 600px;
+    height: 400px;
+}
+
+.imagen-29{
+    width: 600;
+    height: 400px;
+}
+
+
+
+body{
+    background-image: linear-gradient(to top right, rgb(235, 235, 235), rgb(202, 16, 47) 50%, rgb(14, 3, 3));
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
